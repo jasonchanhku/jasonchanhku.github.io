@@ -2,11 +2,9 @@
 main:
   - title: "Portfolio Gallery"
     url: /portfolio/
-  - title: "About Me"
-    url: /about/
   - title: "Curriculum Vitae"
     url: /curriculum-vitae/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "About Me"
+    url: /about/
+  - title: "Upcoming Projects"
+    url: /upcoming-projects/
