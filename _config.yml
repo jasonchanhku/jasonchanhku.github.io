@@ -85,8 +85,7 @@ analytics:
 author:
   name             : "Jason Chan Jin An"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : > "Junior Data Scientist at Fidelity International,
-                        BSc Quantitative Finance, HKU"
+  bio              : | "Junior Data Scientist at Fidelity International,\n BSc Quantitative Finance, HKU"
   location         : "Hong Kong"
   email            : jasonchanhku@gmail.com
   uri              :
