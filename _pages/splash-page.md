@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "Predicting the Unpredictable"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
@@ -10,9 +10,12 @@ header:
   cta_label: "Download"
   cta_url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Welcome to my website where you will discover more about me and my professional projects alongside detailed documentations
+of how I executed them from start to finish."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: "As a Data Scientist, I have always believed that data is the secret sauce in making the unpredictable predictable.
+  By way of introduction, I am a Mixed Martial Arts (MMA) fan. Few years ago, I told a buddy of mine someday I will be able to 
+  predict winners of these fights. In 2017, I built the world's first UFC MMA Predictor."
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
