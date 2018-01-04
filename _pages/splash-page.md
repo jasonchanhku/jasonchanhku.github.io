@@ -15,7 +15,7 @@ of how I executed them from start to finish."
 intro: 
   - excerpt: "As a Data Scientist, I have always believed that data is the secret sauce in making the unpredictable predictable.
   Outside of work, I am a Mixed Martial Arts (MMA) fan. Few years ago, I told myself someday I will be able to 
-  predict winners of these fights. In 2017, I built the world's first UFC MMA Predictor."
+  predict winners of these fights. In 2017, I built the world's first [UFC MMA Predictor](https://ufcmmapredictor.herokuapp.com/)."
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -35,7 +35,7 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
+    title: "My Portfolio"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "#test-link"
     btn_label: "Read More"
@@ -43,7 +43,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
+    title: "My Curriculum Vitae"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
     url: "#test-link"
     btn_label: "Read More"
@@ -51,7 +51,7 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
+    title: "My Upcoming Projects"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
     url: "#test-link"
     btn_label: "Read More"
