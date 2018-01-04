@@ -14,22 +14,22 @@ excerpt: "Welcome to my website where you will discover more about me and my pro
 of how I executed them from start to finish."
 intro: 
   - excerpt: "As a Data Scientist, I have always believed that data is the secret sauce in making the unpredictable predictable.
-  By way of introduction, I am a Mixed Martial Arts (MMA) fan. Few years ago, I told a buddy of mine someday I will be able to 
+  Outside of work, I am a Mixed Martial Arts (MMA) fan. Few years ago, I told myself someday I will be able to 
   predict winners of these fights. In 2017, I built the world's first UFC MMA Predictor."
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
-    title: "Placeholder 1"
+    title: "My Projects"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder 2"
+    title: "My CV"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
+    title: "My Upcoming Projects"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
