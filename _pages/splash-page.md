@@ -49,7 +49,7 @@ feature_row3:
     excerpt: "Discover my Curriculum Vitae in detailed where I highlight my relevant working experience, areas of expertise,
     and areas of interest."
     url: "https://jasonchanhku.github.io/cv/"
-    btn_label: "Examine my CV"
+    btn_label: "Examine My CV"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
