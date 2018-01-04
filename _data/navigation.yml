@@ -4,7 +4,7 @@ main:
     url: /portfolio/
   - title: "Curriculum Vitae"
     url: /curriculum-vitae/
+  - title: "Blog"
+    url: /upcoming-projects/
   - title: "About Me"
     url: /about/
-  - title: "Upcoming Projects"
-    url: /upcoming-projects/
