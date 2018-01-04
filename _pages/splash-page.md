@@ -46,17 +46,19 @@ feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "My Curriculum Vitae"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    excerpt: "Discover my Curriculum Vitae in detailed where I highlight my relevant working experience, areas of expertise,
+    and areas of interest."
+    url: "https://jasonchanhku.github.io/cv/"
+    btn_label: "Examine my CV"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "My Upcoming Projects"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    title: "Upcoming Projects Blog"
+    excerpt: "Learn more about some my upcoming projects I have in mind in my blog posts. These range from deep portfolios
+    to betting arbitrage alerts and other cool stuffs!"
+    url: "https://jasonchanhku.github.io/portfolio/"
+    btn_label: "Read My Blog"
     btn_class: "btn--primary"
 ---
 
@@ -68,4 +70,4 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="left" %}
