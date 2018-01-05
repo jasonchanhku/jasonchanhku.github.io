@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
 excerpt: "Welcome to my website where you will discover more about me and my professional projects alongside detailed documentations
-of how I executed them from start to finish."
+of how I executed them from start to finish. This is where I also blog my shower thoughts on ideas that can blow one's mind."
 intro: 
   - excerpt: "As a Data Scientist, I have always believed that data is the secret sauce in making the unpredictable predictable.
   Outside of work, I am a Mixed Martial Arts (MMA) fan. Few years ago, I told myself someday I will be able to 
