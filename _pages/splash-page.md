@@ -7,11 +7,13 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
+  cta_label: ""
+  cta_url: ""
 excerpt: "Welcome to my website where you will discover more about me and my professional projects alongside detailed documentations
-of how I executed them from start to finish. This is where I also blog my shower thoughts on ideas that can blow one's mind."
+of how I executed them from start to finish."
 intro: 
   - excerpt: "As a Data Scientist, I have always believed that data is the secret sauce in making the unpredictable predictable.
-  Outside of work, I am a Mixed Martial Arts (MMA) fan. Few years ago, I told myself someday I will be able to 
+  I am also a Mixed Martial Arts (MMA) fan. Few years ago, I told myself someday I will be able to 
   predict winners of these fights. In 2017, I built the world's first [UFC MMA Predictor](https://ufcmmapredictor.herokuapp.com/)."
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
