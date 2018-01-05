@@ -7,8 +7,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
-  cta_label: ""
-  cta_url: ""
+  cta_label: "More About Me"
+  cta_url: "https://jasonchanhku.github.io/about/"
 excerpt: "Welcome to my website where you will discover more about me and my professional projects alongside detailed documentations
 of how I executed them from start to finish."
 intro: 
