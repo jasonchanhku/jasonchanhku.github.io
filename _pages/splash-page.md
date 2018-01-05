@@ -7,9 +7,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
-  cta_label: "Download"
-  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Welcome to my website where you will discover more about me and my professional projects alongside detailed documentations
 of how I executed them from start to finish."
 intro: 
