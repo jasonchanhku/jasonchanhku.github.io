@@ -36,7 +36,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "My Portfolio"
     excerpt: "Explore some of the interesting pet projects of mine. Ranging from predicting winners of an MMA match, 
-    to developing a betting strategy to win the casino game Sic Bo, to play ground machine learning projects, and even
+    to developing a betting strategy to win the casino game Sic Bo, to playground machine learning projects, and even
     Tableau vizzes."
     url: "https://jasonchanhku.github.io/portfolio/"
     btn_label: "Explore Portfolio"
