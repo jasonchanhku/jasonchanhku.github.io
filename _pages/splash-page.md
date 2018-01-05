@@ -35,7 +35,7 @@ feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "My Portfolio"
-    excerpt: "Explore some of the interesting pet projects of mine. Ranging from predicting winners of an MMA match, 
+    excerpt: "My portfolio ranges from predicting winners of an MMA match, 
     to developing a betting strategy to win the casino game Sic Bo, to playground machine learning projects, and even
     Tableau vizzes."
     url: "https://jasonchanhku.github.io/portfolio/"
