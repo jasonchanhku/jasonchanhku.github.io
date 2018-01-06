@@ -35,8 +35,31 @@ feature_row:
     btn_label: "View Project"
     btn_class: "btn--primary"
 intro2: 
-  - excerpt: "# Professional Projects 2"
+  - excerpt: "# Machine Learning Playground"
 feature_row2:
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "My Projects"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "View Project"
+    btn_class: "btn--primary"  
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "My CV"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "My Upcoming Projects"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+intro3: 
+  - excerpt: "# Tableau Visualizations"
+feature_row3:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
     title: "My Projects"
@@ -67,5 +90,7 @@ feature_row2:
 
 {% include feature_row id="feature_row2" %}
 
+{% include feature_row id="intro3" type="center" %}
 
+{% include feature_row id="feature_row3" %}
 
