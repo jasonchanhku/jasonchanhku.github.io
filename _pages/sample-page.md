@@ -34,7 +34,7 @@ feature_row:
     url: "#test-link"
     btn_label: "View Project"
     btn_class: "btn--primary"
-intro: 
+intro2: 
   - excerpt: "# Professional Projects 2"
 feature_row2:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
