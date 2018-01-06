@@ -264,7 +264,7 @@ defaults:
   # _pets
   - scope:
       path: ""
-      type: pages
+      type: pets
     values:
       layout: splash
       author_profile: false
