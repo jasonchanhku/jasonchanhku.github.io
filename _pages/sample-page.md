@@ -12,9 +12,7 @@ header:
 excerpt: "Welcome to my website where you will discover more about me and my professional projects alongside detailed documentations
 of how I executed them from start to finish."
 intro: 
-  - excerpt: "As a Data Scientist, I have always believed that data is the secret sauce in making the unpredictable predictable.
-  I am also a Mixed Martial Arts (MMA) fan. I told myself someday I will be able to predict winners of these fights. Hence, 
-  I built the world's first [UFC MMA Predictor](https://ufcmmapredictor.herokuapp.com/)."
+  - excerpt: "# Professional Projects"
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -38,6 +36,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="left" %}
 
 {% include feature_row %}
