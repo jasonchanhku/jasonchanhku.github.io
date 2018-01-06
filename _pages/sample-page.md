@@ -63,8 +63,9 @@ feature_row2:
 
 {% include feature_row %}
 
-{% include feature_row2 id="intro" type="center" %}
+{% include feature_row id="intro2" type="center" %}
 
-{% include feature_row2 %}
+{% include feature_row id="feature_row2" %}
+
 
 
