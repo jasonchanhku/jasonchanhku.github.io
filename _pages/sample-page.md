@@ -1,7 +1,7 @@
 ---
 title: "Sample Page"
 permalink: /portfolio/
-layout: single
+layout: splash
 author_profile: true
 date: 2016-02-24T03:02:20+00:00
 ---
