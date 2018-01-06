@@ -255,7 +255,7 @@ defaults:
 
   # _pages
   - scope:
-      path: "/portfolio/"
+      path: ""
       type: pages
     values:
       layout: splash
