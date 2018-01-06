@@ -20,17 +20,22 @@ feature_row:
     alt: "placeholder image 1"
     title: "My Projects"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://github.com/mmistakes/minimal-mistakes/"
+    url: "#test-link"
+    btn_label: "View Project"
+    btn_class: "btn--primary"  
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "My CV"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "View Project"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "My Upcoming Projects"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
