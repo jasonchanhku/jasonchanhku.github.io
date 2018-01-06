@@ -1,6 +1,6 @@
 ---
 title: "My Portfolio"
-layout: single
+layout: archive
 permalink: /portfolio/
 date: 2016-03-23T11:48:41-04:00
 header:
