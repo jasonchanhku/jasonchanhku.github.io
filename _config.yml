@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : "Jason Chan"
 description              : "Predicting the Unpredictable"
 url                      : "https://jasonchanhku.github.io"
-baseurl                  : "/"
+baseurl                  :
 repository               : "jasonchanhku/jasonchanhku.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
