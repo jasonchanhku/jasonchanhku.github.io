@@ -272,11 +272,14 @@ defaults:
       layout: splash
       author_profile: false
 
-  # _portfolio
+  # _pets
   - scope:
       path: ""
-      type: portfolio
+      type: pets
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: # true
       share: true
+      related: true
