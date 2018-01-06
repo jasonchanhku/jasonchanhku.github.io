@@ -266,8 +266,8 @@ defaults:
       path: ""
       type: pets
     values:
-      layout: splash
-      author_profile: false
+      layout: single
+      author_profile: true
 
   # _ports
   - scope:
