@@ -3,7 +3,7 @@ main:
   - title: "Portfolio Gallery"
     url: /portfolio/
   - title: "Curriculum Vitae"
-    url: "jasonchanhku.github.io/resume.pdf"
+    url: /resume.pdf
   - title: "Blog"
     url: /upcoming-projects/
   - title: "About Me"
