@@ -47,7 +47,7 @@ feature_row3:
     title: "My Curriculum Vitae"
     excerpt: "Discover my Curriculum Vitae in detailed where I highlight my relevant working experience, areas of expertise,
     and areas of interest."
-    url: "https://jasonchanhku.github.io/cv/"
+    url: "https://jasonchanhku.github.io/resume.pdf"
     btn_label: "Examine My CV"
     btn_class: "btn--primary"
 feature_row4:
