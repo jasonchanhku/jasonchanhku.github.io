@@ -9,7 +9,9 @@ header:
   overlay_image: /assets/images/unsplash-image-8.jpg
 excerpt: "Discover my background and story of how I got into Data Science, my learning philosophy, and areas of interests
 <br>
-<br>"
+<br>
+<br>
+"
 ---
 
 # My Background
