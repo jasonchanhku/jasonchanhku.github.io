@@ -7,12 +7,12 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-8.jpg
-excerpt: "Discover my personal journey of how I got into Data Science, my learning philosophy, and aread of interests
+excerpt: "Discover my background and story of how I got into Data Science, my learning philosophy, and areas of interests
 <br>
 <br>"
-intro: 
-  - excerpt: "# Professional Projects"
 ---
+
+# My Background
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec mollis. Quisque convallis libero in sapien pharetra tincidunt. Aliquam elit ante, malesuada id, tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nisi orci ullamcorper massa, et adipiscing orci velit quis magna. Praesent sit amet ligula id orci venenatis auctor. Phasellus porttitor, metus non tincidunt dapibus, orci pede pretium neque, sit amet adipiscing ipsum lectus et libero. Aenean bibendum. Curabitur mattis quam id urna. Vivamus dui. Donec nonummy lacinia lorem. Cras risus arcu, sodales ac, ultrices ac, mollis quis, justo. Sed a libero. Quisque risus erat, posuere at, tristique non, lacinia quis, eros.
 
@@ -24,7 +24,12 @@ Curabitur non elit. Pellentesque iaculis, nisl non aliquet adipiscing, purus urn
 
 Cras pede. Nullam id velit sit amet turpis tincidunt sagittis. Nunc malesuada. Nunc consequat scelerisque odio. Donec eu leo. Nunc pellentesque felis sed odio. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus lobortis metus in lectus. Cras mollis quam eget sapien. Pellentesque non lorem sit amet sem lacinia euismod.
 
-Nulla eget diam eget leo imperdiet consequat. Morbi nunc magna, pellentesque eu, porta at, ultricies ut, neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In tincidunt. Praesent ut orci id eros congue ultrices. Mauris non neque. Donec nulla ante, molestie sit amet, fermentum nec, blandit sit amet, purus. Fusce eget diam eu odio iaculis mollis. Phasellus consectetuer pede quis nisi. Proin non sem ut elit pulvinar faucibus. In a turpis nec augue fringilla elementum.
+Nulla eget diam eget leo imperdiet consequat. 
+
+
+# My Learning Philosophy
+
+Morbi nunc magna, pellentesque eu, porta at, ultricies ut, neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In tincidunt. Praesent ut orci id eros congue ultrices. Mauris non neque. Donec nulla ante, molestie sit amet, fermentum nec, blandit sit amet, purus. Fusce eget diam eu odio iaculis mollis. Phasellus consectetuer pede quis nisi. Proin non sem ut elit pulvinar faucibus. In a turpis nec augue fringilla elementum.
 
 Nullam felis. Donec in nulla. Suspendisse sodales, turpis in suscipit ullamcorper, enim nunc sagittis risus, eu auctor velit tortor ut turpis. Mauris id augue at neque aliquam eleifend. Sed eget augue. Nunc faucibus ligula sed massa. Etiam non nulla. Etiam accumsan ullamcorper nisl. In pharetra massa at nunc. Nunc elementum. Duis sodales enim nec libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Praesent dapibus eros sodales urna. Duis magna nisi, lobortis quis, tincidunt rutrum, posuere non, ipsum.
 
@@ -35,6 +40,8 @@ Donec libero mauris, volutpat at, convallis vel, laoreet euismod, augue. In accu
 Quisque interdum felis a tellus. Aliquam sed diam ac velit aliquam rutrum. Morbi commodo, risus a pulvinar adipiscing, tortor pede posuere risus, ac ornare tellus massa nec lectus. Vivamus mollis metus ac sapien. Nam sed est a libero ullamcorper dapibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean a erat ac nibh accumsan volutpat. Phasellus pulvinar consequat turpis. Curabitur ante metus, tempus ut, consequat eu, sollicitudin sit amet, justo. Duis ut libero.
 
 Հայերեն
+
+# Areas of Interests
 
 Lorem Ipsum-ը տպագրության և տպագրական արդյունաբերության համար նախատեսված մոդելային տեքստ է: Սկսած 1500-ականներից\` Lorem Ipsum-ը հանդիսացել է տպագրական արդյունաբերության ստանդարտ մոդելային տեքստ, ինչը մի անհայտ տպագրիչի կողմից տարբեր տառատեսակների օրինակների գիրք ստեղծելու ջանքերի արդյունք է: Այս տեքստը ոչ միայն կարողացել է գոյատևել հինգ դարաշրջան, այլև ներառվել է էլեկտրոնային տպագրության մեջ\` մնալով էապես անփոփոխ: Այն հայտնի է դարձել 1960-ականներին Lorem Ipsum բովանդակող Letraset էջերի թողարկման արդյունքում, իսկ ավելի ուշ համակարգչային տպագրության այնպիսի ծրագրերի թողարկման հետևանքով, ինչպիսին է Aldus PageMaker-ը, որը ներառում է Lorem Ipsum-ի տարատեսակներ:
 
