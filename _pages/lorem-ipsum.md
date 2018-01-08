@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-5.jpg
+  overlay_image: /assets/images/unsplash-image-8.jpg
 excerpt: "Discover my background and story of how I got into Data Science, my learning philosophy, and areas of interests
 <br>
 <br>
@@ -22,11 +22,12 @@ I'm a scientist in and outside of work to achieve one mission, **Predicting the 
 to how data can be manipulated and blended in many scientific ways to discover ground breaking insights and predict the unthinkable. 
 I still remember how mind blown I was learning my first Linear Regression back in high school, felt like ***magic***.
 
-Years later, throughout my university years, I discovered this magic is an encapsulated science which is ***data science***
+Years later, throughout my university years, I discovered this magic is an encapsulated science which is ***data science***.
 
 # My Learning Philosophy
 
-not just the title, but my actions, my hardwork, what I do with my skills, concrete, focus o fundamentals, code from scratch
+not just the title, but my actions, my hardwork, what I do with my skills, concrete, focus o fundamentals, code from scratch,
+mastering the fundamentals, and looking at the bigger picture.
 Batman who doesn't stop crime and superman who doesn't save the world. 
 Morbi nunc magna, pellentesque eu, porta at, ultricies ut, neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In tincidunt. Praesent ut orci id eros congue ultrices. Mauris non neque. Donec nulla ante, molestie sit amet, fermentum nec, blandit sit amet, purus. Fusce eget diam eu odio iaculis mollis. Phasellus consectetuer pede quis nisi. Proin non sem ut elit pulvinar faucibus. In a turpis nec augue fringilla elementum.
 
