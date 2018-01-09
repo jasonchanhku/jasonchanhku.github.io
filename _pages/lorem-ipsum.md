@@ -26,19 +26,23 @@ relationships in data, I utilize data and technology creatively to paint the big
 
 # My Learning Philosophy
 
-not just the title, but my actions, my hardwork, what I do with my skills, concrete, focus o fundamentals, code from scratch,
-mastering the fundamentals, and looking at the bigger picture.
-Batman who doesn't stop crime and superman who doesn't save the world. 
-Morbi nunc magna, pellentesque eu, porta at, ultricies ut, neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In tincidunt. Praesent ut orci id eros congue ultrices. Mauris non neque. Donec nulla ante, molestie sit amet, fermentum nec, blandit sit amet, purus. Fusce eget diam eu odio iaculis mollis. Phasellus consectetuer pede quis nisi. Proin non sem ut elit pulvinar faucibus. In a turpis nec augue fringilla elementum.
+As a scientist, I'm an advocate of being strong in the ***fundamentals***. I'm the type that loves learning the math and theory behind algorithms and then bring them to live by coding
+from scratch. I like to learn the nuts of bolts of the algorithms I use as it gives me a full understanding of what I'm doing
+instead of using things as a black box.
 
-Nullam felis. Donec in nulla. Suspendisse sodales, turpis in suscipit ullamcorper, enim nunc sagittis risus, eu auctor velit tortor ut turpis. Mauris id augue at neque aliquam eleifend. Sed eget augue. Nunc faucibus ligula sed massa. Etiam non nulla. Etiam accumsan ullamcorper nisl. In pharetra massa at nunc. Nunc elementum. Duis sodales enim nec libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Praesent dapibus eros sodales urna. Duis magna nisi, lobortis quis, tincidunt rutrum, posuere non, ipsum.
+Besides the fundamentals, I also believe in ***application***. I believe in initiating projects that put my skills to the test
+from end to end. Skills are nothing if one does not put it to use.
 
-Aliquam convallis neque vitae diam. 
+> What's a Batman with a batmobile but can't stop crime and what's a Superman with a suit but can't save the world? 
 
-> "Learning only stops when you are old, whether 20 or 80."
+Lastly, I believe in ***lifelong learning***. I will keep up with the latest tech, methodology, and news surrounding my passion
+as I believe this is how I will continue upskilling and truly ***age like fine wine***.
 
 # Areas of Interests
 
-Suspendisse sodales, turpis in suscipit ullamcorper, enim nunc sagittis risus, eu auctor velit tortor ut turpis. Mauris id augue at neque aliquam eleifend. Sed eget augue. Nunc faucibus ligula sed massa. Etiam non nulla. Etiam accumsan ullamcorper nisl. In pharetra massa at nunc. Nunc elementum. Duis sodales enim nec libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Praesent dapibus eros sodales urna. Duis magna nisi, lobortis quis, tincidunt rutrum, posuere non, ipsum.
+I have interests in applying data science and machine learning in the following areas:
 
-Aliquam convallis neque vitae diam. 
+* Finance
+* Mixed Martial Arts / Combat Sports 
+* Neuro Investing
+* Casino games
