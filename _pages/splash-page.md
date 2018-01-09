@@ -32,7 +32,7 @@ feature_row:
     title: "My Upcoming Projects"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 2"
     title: "My Portfolio"
     excerpt: "My portfolio ranges from predicting winners of an MMA match, 
@@ -51,7 +51,7 @@ feature_row3:
     btn_label: "Examine My CV"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/unsplash-gallery-image-4-th.jpg
     alt: "placeholder image 2"
     title: "Upcoming Projects Blog"
     excerpt: "Learn more about some my upcoming projects I have in mind in my blog posts. These range from deep portfolios
