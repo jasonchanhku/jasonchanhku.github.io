@@ -35,7 +35,7 @@ from end to end. Skills are nothing if one does not put it to use.
 
 > What's a Batman with a batmobile who can't stop crime and what's a Superman with a suit who can't save the world? 
 
-Lastly, I believe in ***lifelong learning***. I will keep up with the latest tech, methodology, and news surrounding my passion
+Lastly, I believe in ***lifelong learning***. I continuously keep up with the latest tech, methodology, and news surrounding my passion
 as I believe this is how I will continue upskilling and truly ***age like fine wine***.
 
 # Areas of Interests
