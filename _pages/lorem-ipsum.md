@@ -33,7 +33,7 @@ instead of using it as a black box.
 Besides the fundamentals, I also believe in ***application***. I believe in initiating projects that put my skills to the test
 from end to end. Skills are nothing if one does not put it to use.
 
-> What's a Batman with a batmobile but can't stop crime and what's a Superman with a suit but can't save the world? 
+> What's a Batman with a batmobile who can't stop crime and what's a Superman with a suit who can't save the world? 
 
 Lastly, I believe in ***lifelong learning***. I will keep up with the latest tech, methodology, and news surrounding my passion
 as I believe this is how I will continue upskilling and truly ***age like fine wine***.
