@@ -16,13 +16,13 @@ excerpt: "Discover my background and story of how I got into Data Science, my le
 
 # My Background
 
-Hi there ! I'm Jason, a Quantitative Finance graduate and Malaysian scientist working at Fidelity International, Hong Kong.
+Hi there ! I'm Jason, a Quantitative Finance graduate and Malaysian scientist working at Fidelity International Hong Kong.
 
-I'm a scientist in and outside of work to achieve one mission, **Predicting the Unpredictable**. I have always been fascinated
-to how data can be manipulated and blended in many scientific ways to discover ground breaking insights and predict the unthinkable. 
-I still remember how mind blown I was learning my first Linear Regression back in high school, felt like ***magic***.
+I'm a scientist inside and outside of work to achieve one mission, **Predicting the Unpredictable**. I have always been fascinated
+of how data can be manipulated and enriched in many scientific ways to discover ground breaking insights and predict the unthinkable. 
 
-Years later, throughout my university years, I discovered this magic is an encapsulated science which is ***data science***.
+As much as this discipline is a science, it is equally of an art to me. From cleansing the messiest data to engineering new
+relationships in data, I utilize data and technology creatively to paint the bigger picture.
 
 # My Learning Philosophy
 
