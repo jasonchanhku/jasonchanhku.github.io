@@ -22,7 +22,7 @@ I'm a scientist inside and outside of work to achieve one mission, **Predicting 
 of how data can be manipulated and enriched in many scientific ways to discover ground breaking insights and predict the unthinkable. 
 
 As much as this discipline is a science, it is equally of an art to me. From cleansing the messiest data to engineering new
-relationships in data, I utilize data and technology creatively to paint the bigger picture.
+relationships in data, I creatively utilize data and technology to paint the bigger picture.
 
 # My Learning Philosophy
 
