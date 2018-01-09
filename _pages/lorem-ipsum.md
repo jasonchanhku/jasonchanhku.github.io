@@ -26,9 +26,9 @@ relationships in data, I utilize data and technology creatively to paint the big
 
 # My Learning Philosophy
 
-As a scientist, I'm an advocate of being strong in the ***fundamentals***. I'm the type that loves learning the math and theory behind algorithms and then bring them to live by coding
-from scratch. I like to learn the nuts of bolts of the algorithms I use as it gives me a full understanding of what I'm doing
-instead of using things as a black box.
+I'm an advocate of being strong in the ***fundamentals***. I love learning the math and theory behind algorithms and then bring them to live by coding
+it from scratch. I like to learn the nuts of bolts of the algorithms as it gives me a full understanding of what I'm doing
+instead of using it as a black box.
 
 Besides the fundamentals, I also believe in ***application***. I believe in initiating projects that put my skills to the test
 from end to end. Skills are nothing if one does not put it to use.
