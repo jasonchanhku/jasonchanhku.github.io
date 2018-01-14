@@ -285,7 +285,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _portfolio
+  # _pets
   - scope:
       path: ""
       type: portfolio

@@ -5,6 +5,6 @@ main:
   - title: "Curriculum Vitae"
     url: /resume.pdf
   - title: "Blog"
-    url: /upcoming-projects/
+    url: /blog/
   - title: "About Me"
     url: /about/
