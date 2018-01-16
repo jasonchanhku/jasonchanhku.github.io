@@ -56,7 +56,7 @@ feature_row4:
     title: "Upcoming Projects Blog"
     excerpt: "Learn more about some my upcoming projects I have in mind in my blog posts. These range from deep portfolios
     to betting arbitrage alerts and other cool stuffs!"
-    url: "https://jasonchanhku.github.io/portfolio/"
+    url: "https://jasonchanhku.github.io/blog/"
     btn_label: "Read My Blog"
     btn_class: "btn--primary"
 ---
