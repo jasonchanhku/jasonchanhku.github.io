@@ -63,7 +63,7 @@ it is unlikely and much less frequent.
 
 Given the trade-off explained above, the expected profit can only be calculated using Monte-Carlo simulation of ***N*** trials.
 
-### Assumptions and Constraints
+## Assumptions and Constraints
 
 * The dice outcome is random and unbiased
 * Casino systems are fair and not rigged
@@ -73,9 +73,26 @@ Note that with only 3,000 in hand, 4 losses is the maximum consecutive losses be
 
 # Implementation
 
-## Skills Needed
+A python script will be written implement the ***Selective Martingale*** betting strategy in a Macau casino. Based on my last visit,
+these are some of my observations that could be key to the implementation:
+* There are 4 tables playing Sic-Bo
+* A screen is present on each table with the historical of Big/Small outcomes
 
-## Logistics
+Based on the 2 observations above, I do not have to just wait at a particular table for ***X*** consecutive outcomes but rather
+jump from one table to another shall ***X*** consecutive outcomes occur at any table. 
 
-## Time to completion
+
+## Process
+
+The following are the high level steps to implement the betting strategy:
+* Write simulation function
+* Write and code out betting strategy
+* Collect results in an organized way and visualized them
+* Tune for optimum parameters value ***X***
+* Evaluate if optimum ***X*** makes sense in the real scenario
+
+## Outcome
+
+The outcome and effectiveness of this strategy and be tested by making a trip to Macau with the assumptions stated in hand. 
+Regardless of the outcome, I will update the blog with my results.
 
