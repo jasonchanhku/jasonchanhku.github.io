@@ -29,9 +29,9 @@ feature_row:
     btn_label: "View Project"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "My Upcoming Projects"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    title: "Sic-Bo Martingale Betting"
+    excerpt: "Implemented a Martingale strategy to ensure guaranteed profits on simulations"
+    url: "http://nbviewer.jupyter.org/github/jasonchanhku/jupyternotebooks/blob/master/Macau%20%E5%A4%A7%E5%B0%8F%20simulation.ipynb"
     btn_label: "View Project"
     btn_class: "btn--primary"
 intro2: 
