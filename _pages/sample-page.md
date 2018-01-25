@@ -23,9 +23,9 @@ feature_row:
     btn_class: "btn--primary"  
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "My CV"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    title: "FinEng Capstone"
+    excerpt: "Capstone project where I applied structured, priced, and modeled returns of a complex product"
+    url: "https://github.com/jasonchanhku/FINENG"
     btn_label: "View Project"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
