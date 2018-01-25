@@ -16,9 +16,9 @@ intro:
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
-    title: "My Projects"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    title: "UFC MMA Predictor"
+    excerpt: "The world's first web app to predict winners of upcoming UFC MMA fights"
+    url: "https://github.com/jasonchanhku/UFC-MMA-Predictor"
     btn_label: "View Project"
     btn_class: "btn--primary"  
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
