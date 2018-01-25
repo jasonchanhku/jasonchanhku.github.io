@@ -1,9 +1,6 @@
 ---
 title: "Selective Martingale Betting in Sic-Bo (大小)"
 date: 2018-01-24
-categories:
-  - Post
-  - Projects
 tags:
   - Projects
   - Gambling
@@ -38,7 +35,17 @@ The following are the ground rules for betting on either **Big or Small:**
 
 ## Betting Facts
 
+The following betting facts are acknowledged for this betting project:
+
+| Outcome       | Probability   | House Edge  |
+| ------------- |:---------------:| :----:|
+| Big      | 48.6% | 2.8% |
+| Small      | 48.6%      |   2.8% |
+| Triples | 2.8%      |   13.9%  |
+
 ## Betting Strategy
+
+The **Selective Martingale** strategy works as follows:
 
 
 
