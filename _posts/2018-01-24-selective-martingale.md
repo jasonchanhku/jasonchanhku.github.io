@@ -5,7 +5,7 @@ tags:
   - Gambling
 ---
 
-# Project Introduction
+# Project Overview
 
 ![Sic_Bo](http://www.casinoreviewsquad.com/wp-content/uploads/2011/06/sicbolit.jpg)
 
