@@ -23,7 +23,7 @@ feature_row:
     btn_class: "btn--primary"  
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "FinEng Capstone"
+    title: "Financial Engineering"
     excerpt: "Capstone project where I structured, priced, and modeled returns of a complex product"
     url: "https://github.com/jasonchanhku/FINENG"
     btn_label: "View Project"
