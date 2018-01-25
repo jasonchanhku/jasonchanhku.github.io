@@ -9,7 +9,7 @@ tags:
 
 ![Sic_Bo](http://www.casinoreviewsquad.com/wp-content/uploads/2011/06/sicbolit.jpg)
 
-This project was inspired by a past project where I developed a Martingale
+This project was inspired by a [past project](http://nbviewer.jupyter.org/github/jasonchanhku/jupyternotebooks/blob/master/Macau%20%E5%A4%A7%E5%B0%8F%20simulation.ipynb) where I developed a Martingale
 betting strategy to ensure profits in the long term of betting **Big or Small.** 
 
 However, the downside of that strategy was that one must have infinite wealth to avoid bankruptcy
@@ -91,7 +91,7 @@ The following are the high level steps to implement the betting strategy:
 * Tune for optimum parameters value ***X***
 * Evaluate if optimum ***X*** makes sense in the real scenario
 
-## Outcome
+# Outcome and Results
 
 The outcome and effectiveness of this strategy and be tested by making a trip to Macau with the assumptions stated in hand. 
 Regardless of the outcome, I will update the blog with my results.
