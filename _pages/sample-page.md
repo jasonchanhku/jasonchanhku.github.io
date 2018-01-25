@@ -24,12 +24,12 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "FinEng Capstone"
-    excerpt: "Capstone project where I applied structured, priced, and modeled returns of a complex product"
+    excerpt: "Capstone project where I structured, priced, and modeled returns of a complex product"
     url: "https://github.com/jasonchanhku/FINENG"
     btn_label: "View Project"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Sic-Bo Martingale Betting"
+    title: "Sic-Bo Betting"
     excerpt: "Implemented a Martingale strategy to ensure guaranteed profits on simulations"
     url: "http://nbviewer.jupyter.org/github/jasonchanhku/jupyternotebooks/blob/master/Macau%20%E5%A4%A7%E5%B0%8F%20simulation.ipynb"
     btn_label: "View Project"
