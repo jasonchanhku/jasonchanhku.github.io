@@ -56,22 +56,16 @@ intro3:
 feature_row3:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
-    title: "My Projects"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    title: "UFC Bantamweights"
+    excerpt: "Webscraped data and images from UFC and visualized stats of UFC top Bantamweights"
+    url: "https://public.tableau.com/profile/jason.chan.jin.an#!/vizhome/UFCTop5Bantamweights/UFCTop5Bantamweights"
     btn_label: "View Project"
     btn_class: "btn--primary"  
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "My CV"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "View Project"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "My Upcoming Projects"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    title: "Interactive Metrics"
+    excerpt: "Demonstrated my parameter control and LOD skills by creating advanced analytics"
+    url: "https://public.tableau.com/profile/jason.chan.jin.an#!/vizhome/InteractiveKeyMetricsDashboard/Dashboard1"
     btn_label: "View Project"
     btn_class: "btn--primary"
 ---
