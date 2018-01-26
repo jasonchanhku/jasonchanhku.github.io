@@ -47,7 +47,7 @@ feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "IPython Notebooks"
-    excerpt: "Applying machine learning using Python libraries and presenting them in Jupyter Notebooks"
+    excerpt: "Applied machine learning using Python libraries and presenting them in Jupyter Notebooks"
     url: "https://github.com/jasonchanhku/jupyternotebooks"
     btn_label: "View Project"
     btn_class: "btn--primary"
