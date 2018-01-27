@@ -35,7 +35,7 @@ feature_row3:
     btn_label: "Examine My CV"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+  - image_path: /assets/new_images/etoro.jpg
     alt: "placeholder image 2"
     title: "Upcoming Projects Blog"
     excerpt: "Learn more about some my upcoming projects I have in mind in my blog posts. These range from deep portfolios
