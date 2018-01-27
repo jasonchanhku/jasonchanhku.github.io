@@ -32,7 +32,7 @@ feature_row:
     title: "My Upcoming Projects"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/new_images/octocat.jpg
     alt: "placeholder image 2"
     title: "My Portfolio"
     excerpt: "My portfolio ranges from predicting winners of an MMA match, 
