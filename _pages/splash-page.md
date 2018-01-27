@@ -21,7 +21,7 @@ feature_row:
     title: "My Projects"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "https://github.com/mmistakes/minimal-mistakes/"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/new_images/octocat.jpg
     alt: "placeholder image 2"
     title: "My CV"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
