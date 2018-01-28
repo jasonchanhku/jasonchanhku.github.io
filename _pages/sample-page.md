@@ -30,7 +30,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/new_images/sicnew.jpg
     title: "Sic-Bo Betting"
-    excerpt: "Implemented a Martingale strategy to ensure guaranteed profits on simulations"
+    excerpt: "Implemented a Martingale strategy to ensure long term profits on simulations"
     url: "http://nbviewer.jupyter.org/github/jasonchanhku/jupyternotebooks/blob/master/Macau%20%E5%A4%A7%E5%B0%8F%20simulation.ipynb"
     btn_label: "View Project"
     btn_class: "btn--primary"
