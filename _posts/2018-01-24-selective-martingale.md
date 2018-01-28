@@ -87,7 +87,7 @@ jump from one table to another shall ***X*** consecutive outcomes occur at any t
 The following are the high level steps to implement the betting strategy:
 * Write simulation function
 * Write and code out betting strategy
-* Collect results in an organized way and visualized them
+* Collect results in an organized way and visualize them
 * Tune for optimum parameters value ***X***
 * Evaluate if optimum ***X*** makes sense in the real scenario
 
