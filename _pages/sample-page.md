@@ -14,7 +14,7 @@ of how I executed them from start to finish."
 intro: 
   - excerpt: "# Professional Projects"
 feature_row:
-  - image_path: /assets/new_images/ufc.png
+  - image_path: /assets/new_images/ufcnew.png
     alt: "placeholder image 1"
     title: "UFC MMA Predictor"
     excerpt: "The world's first web app to predict winners of upcoming UFC MMA fights"
