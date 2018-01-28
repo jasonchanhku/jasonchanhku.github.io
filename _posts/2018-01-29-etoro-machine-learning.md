@@ -1,5 +1,5 @@
 ---
-title: "Etoro Machine Learning Portfolio"
+title: "eToro Machine Learning Portfolio"
 date: 2018-01-29
 tags:
   - Trading
@@ -7,92 +7,60 @@ tags:
 
 # Project Overview
 
-![Sic_Bo](http://www.casinoreviewsquad.com/wp-content/uploads/2011/06/sicbolit.jpg)
+![eToro](https://steemit-production-imageproxy-upload.s3.amazonaws.com/DQmQu927Ej6CW9mamZfZGj5z6kA1rXruJW2JQt5vtKqsrSb)
 
-This project was inspired by a [past project](http://nbviewer.jupyter.org/github/jasonchanhku/jupyternotebooks/blob/master/Macau%20%E5%A4%A7%E5%B0%8F%20simulation.ipynb) where I developed a Martingale
-betting strategy to ensure profits in the long term of betting **Big or Small.** 
+eToro is a social trading investment network that enables users to watch the financial trading activities of other users, 
+copy them, and make their own trades **using CFDs**. eToro allows traders to  learn from each other, share live trading 
+information, and capitalize on their collective power. 
 
-However, the downside of that strategy was that one must have infinite wealth to avoid bankruptcy
-as there is only so much of consecutive wrong bets one can get.
+Users can also view the portfolio allocation and performances of other traders and choose who to "copy"
 
-The downside of this strategy hence creates the need of a more selective and cautious strategy which is
-***less volatile in terms of profit fluctuations.***
+![Copy](/Users/jasonchan/PycharmProjects/jasonchanhku.github.io/assets/new_images/copypeople.png)
 
+With so many traders to learn and "copy" from, how does one make the decision to copy and how much should one allocate?
 
+The motivation for this project is the answer to the question above. The projects aims to apply machine learning to
+data that can be scraped from the platform and re-balance the portfolio frequently to achieve the ***optimum eToro portfolio.*** 
 
-## Rules
+## Caveats
 
-This strategy is only interested in betting in either **Big or Small.** The other bets such as odd, even, etc are
-irrelevant in this project. 
-
-The following are the ground rules for betting on either **Big or Small:**
-* Big: total of 3 dices must be 11-17 
-* Small: total of 3 dices must be 4-10
-* Any triples will be considered as a loss
-* Payout is 1 to 1, i.e. you win what you bet
-* Minimum bet is HKD 200            
-
-
-## Betting Facts
-
-The following betting facts are acknowledged for this betting project:
-
-| Outcome       | Probability   | House Edge  |
-| ------------- |:---------------:| :----:|
-| Big      | 48.6% | 2.8% |
-| Small      | 48.6%      |   2.8% |
-| Triples | 2.8%      |   13.9%  |
-
-## Betting Strategy
-
-The **Selective Martingale** strategy works as follows:
-* Say we pick Big, do not bet Big until Small appears ***X*** consecutive times
-* If we do not win, apply Martingale ***until profit is gained***
-* If or until we win, hold the profits until the next ***X*** appearances of Big or Small occur
-again and then bet the opposite outcome
-
-For example, if X = 4,
-
-`B,B,B,B -> Bet S -> wait until S,S,S,S -> Bet B`
-
-### Optimum Value of X
-
-The optimum value of X will be a trade-off between profit likelihood and occurrences. For instance, if we set X = 10,
-we might be able to have a high chance of profit on the next bet, but for Big/Small to occur 10 consecutive times,
-it is unlikely and much less frequent.
-
-Given the trade-off explained above, the expected profit can only be calculated using Monte-Carlo simulation of ***N*** trials.
-
-## Assumptions and Constraints
-
-* The dice outcome is random and unbiased
-* Casino systems are fair and not rigged
-* Finite wealth of HKD 3,000
-
-Note that with only 3,000 in hand, 4 losses is the maximum consecutive losses before bankruptcy. 
+Below are some of the caveat that needs to be acknowledged as it may have significant impact to the project:
+* eToro allows traders to invest in stocks using **CFDs**
+* This means there are **overnight fees** associated with holding positions overnight
+* The [full overnights fees](https://www.etoro.com/en/customer-service/fees/) needs to be researched
 
 # Implementation
 
-A python script will be written implement the ***Selective Martingale*** betting strategy in a Macau casino. Based on my last visit,
-these are some of my observations that could be key to the implementation:
-* There are 4 tables playing Sic-Bo
-* A screen is present on each table with the historical of Big/Small outcomes
+There are two ways the implementation of the can play out:
+* Make this into a clustering problem and segment the "outstanding" traders to copy from at least for the week/month using the predictors below
+* Make this into an unsupervised learning problem where copy selection is done to autoencode a performance of a good index/underlying
 
-Based on the 2 observations above, I do not have to just wait at a particular table for ***X*** consecutive outcomes but rather
-jump from one table to another shall ***X*** consecutive outcomes occur at any table. 
 
+## Potential Features
+
+These are the potential features identified from availability on the platform:
+* returns (1m, 3m, 6m, 1y)
+* portfolio allocation 
+* volatility
+* sharpe ratio
+* risk rating
+* trades per week
+* active since
+* profitable weeks
+* average holding time  
 
 ## Process
 
-The following are the high level steps to implement the betting strategy:
-* Write simulation function
-* Write and code out betting strategy
-* Collect results in an organized way and visualized them
-* Tune for optimum parameters value ***X***
-* Evaluate if optimum ***X*** makes sense in the real scenario
+The following are the high level steps for implementation:
+
+* Scrape the data from eToro using **selenium and scrapy**
+* Cleanse and blend any useful data available
+* Collect results in an organized way and visualize them
+* Machine learn from predictors to determine the optimum copying portfolio 
+* Backtest the strategy and evaluate the outcome
 
 # Outcome and Results
 
-The outcome and effectiveness of this strategy and be tested by making a trip to Macau with the assumptions stated in hand. 
-Regardless of the outcome, I will update the blog with my results.
+The outcome and effectiveness of this project can be tested using **virtual equity** of a $100,000 using the new machine learning
+portfolio strategy. Over a period of 1 - 3 months, the effectiveness can be gauged and measured.
 
