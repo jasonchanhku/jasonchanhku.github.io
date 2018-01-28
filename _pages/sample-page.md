@@ -37,14 +37,14 @@ feature_row:
 intro2: 
   - excerpt: "# Machine Learning Playground"
 feature_row2:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: /assets/new_images/r.jpg
     alt: "placeholder image 1"
     title: "R Pubs"
     excerpt: "My machine learning playground using machine learning libraries and experimenting using R"
     url: "http://www.rpubs.com/jasonchanhku"
     btn_label: "View Project"
     btn_class: "btn--primary"  
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/new_images/python.jpg
     alt: "placeholder image 2"
     title: "IPython Notebooks"
     excerpt: "Applied machine learning using Python libraries and presenting them in Jupyter Notebooks"
