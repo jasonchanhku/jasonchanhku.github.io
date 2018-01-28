@@ -14,21 +14,21 @@ of how I executed them from start to finish."
 intro: 
   - excerpt: "# Professional Projects"
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: /assets/new_images/ufc.jpg
     alt: "placeholder image 1"
     title: "UFC MMA Predictor"
     excerpt: "The world's first web app to predict winners of upcoming UFC MMA fights"
     url: "https://github.com/jasonchanhku/UFC-MMA-Predictor"
     btn_label: "View Project"
     btn_class: "btn--primary"  
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/new_images/fineng.png
     alt: "placeholder image 2"
     title: "Financial Engineering"
     excerpt: "Capstone project where I structured, priced, and modeled returns of a complex product"
     url: "https://github.com/jasonchanhku/FINENG"
     btn_label: "View Project"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/new_images/sic.jpg
     title: "Sic-Bo Betting"
     excerpt: "Implemented a Martingale strategy to ensure guaranteed profits on simulations"
     url: "http://nbviewer.jupyter.org/github/jasonchanhku/jupyternotebooks/blob/master/Macau%20%E5%A4%A7%E5%B0%8F%20simulation.ipynb"
