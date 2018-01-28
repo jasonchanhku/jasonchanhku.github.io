@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.6"
-  overlay_image: /assets/new_images/myself.jpg
+  overlay_image: /assets/new_images/myself2.jpg
 excerpt: "Discover my background and story of how I got into Data Science, my learning philosophy, and areas of interests
 <br>
 <br>
