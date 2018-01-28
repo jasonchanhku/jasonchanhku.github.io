@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.6"
-  overlay_image: /assets/images/unsplash-image-3.jpg
+  overlay_image: /assets/new_images/portfolio1.jpg
   cta_label: "More About Me"
   cta_url: "https://jasonchanhku.github.io/about/"
 excerpt: "Welcome to my website where you will discover more about me and my professional projects alongside detailed documentations
