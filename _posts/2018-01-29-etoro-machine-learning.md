@@ -1,6 +1,6 @@
 ---
 title: "Etoro Machine Learning Portfolio"
-date: 2018-01-24
+date: 2018-01-29
 tags:
   - Trading
 ---
