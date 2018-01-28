@@ -54,14 +54,14 @@ feature_row2:
 intro3: 
   - excerpt: "# Tableau Visualizations"
 feature_row3:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: /assets/new_images/bantam.png
     alt: "placeholder image 1"
     title: "UFC Bantamweights"
     excerpt: "Webscraped data and images from UFC and visualized stats of UFC top Bantamweights"
     url: "https://public.tableau.com/profile/jason.chan.jin.an#!/vizhome/UFCTop5Bantamweights/UFCTop5Bantamweights"
     btn_label: "View Project"
     btn_class: "btn--primary"  
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/new_images/key.png
     alt: "placeholder image 2"
     title: "Interactive Metrics"
     excerpt: "Demonstrated my parameter control and LOD skills by creating advanced analytics"
