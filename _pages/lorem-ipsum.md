@@ -5,8 +5,8 @@ layout: single
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-8.jpg
+  overlay_filter: "0.6"
+  overlay_image: /assets/new_images/myself.jpg
 excerpt: "Discover my background and story of how I got into Data Science, my learning philosophy, and areas of interests
 <br>
 <br>
