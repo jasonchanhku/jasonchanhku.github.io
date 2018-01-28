@@ -15,7 +15,7 @@ information, and capitalize on their collective power.
 
 Users can also view the portfolio allocation and performances of other traders and choose who to "copy"
 
-![Copy](/Users/jasonchan/PycharmProjects/jasonchanhku.github.io/assets/new_images/copypeople.png)
+![Copy](https://jasonchanhku.github.io/assets/new_images/copypeople.png)
 
 With so many traders to learn and "copy" from, how does one make the decision to copy and how much should one allocate?
 
@@ -33,7 +33,7 @@ Below are some of the caveat that needs to be acknowledged as it may have signif
 
 There are two ways the implementation of the can play out:
 * Make this into a clustering problem and segment the "outstanding" traders to copy from at least for the week/month using the predictors below
-* Make this into an unsupervised learning problem where copy selection is done to autoencode a performance of a good index/underlying
+* Make this into an unsupervised learning problem where copy selection is done using an autoencoder to mimic performance of a good index/underlying
 
 
 ## Potential Features
