@@ -58,7 +58,7 @@ For example, if X = 4,
 ### Optimum Value of X
 
 The optimum value of X will be a trade-off between profit likelihood and occurrences. For instance, if we set X = 10,
-we might not be able to have a high chance of profit on the next bet, but for Big/Small to occur 10 consecutive times,
+we might be able to have a high chance of profit on the next bet, but for Big/Small to occur 10 consecutive times,
 it is unlikely and much less frequent.
 
 Given the trade-off explained above, the expected profit can only be calculated using Monte-Carlo simulation of ***N*** trials.
