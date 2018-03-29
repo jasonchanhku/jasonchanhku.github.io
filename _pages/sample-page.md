@@ -51,6 +51,13 @@ feature_row2:
     url: "https://github.com/jasonchanhku/jupyternotebooks"
     btn_label: "View Project"
     btn_class: "btn--primary"
+  - image_path: /assets/new_images/kaggle.png
+    alt: "placeholder image 2"
+    title: "Kaggle Profile"
+    excerpt: "My Kaggle profile which shows the competitions I took part in and my rankings alogside my kernels"
+    url: "https://www.kaggle.com/jasonchanjinan"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
 intro3: 
   - excerpt: "# Tableau Visualizations"
 feature_row3:
