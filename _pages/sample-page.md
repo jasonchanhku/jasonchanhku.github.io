@@ -9,8 +9,8 @@ header:
   overlay_image: /assets/new_images/portfolio3.png
   cta_label: "More About Me"
   cta_url: "https://jasonchanhku.github.io/about/"
-excerpt: "Welcome to my website where you will discover more about me and my professional projects alongside detailed documentations
-of how I executed them from start to finish."
+excerpt: "These are the projects I am involved with so far. It ranges from professional projects to machine learning 
+playground and even Tableau visualization projects."
 intro: 
   - excerpt: "# Professional Projects"
 feature_row:
