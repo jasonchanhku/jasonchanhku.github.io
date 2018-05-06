@@ -17,14 +17,14 @@ feature_row:
   - image_path: /assets/new_images/ufcnew.jpg
     alt: "placeholder image 1"
     title: "UFC MMA Predictor"
-    excerpt: "The world's first web app to predict winners of upcoming UFC MMA fights"
+    excerpt: "The world's first web app to predict winners of upcoming UFC MMA fights with 70.4% accuracy"
     url: "https://github.com/jasonchanhku/UFC-MMA-Predictor"
     btn_label: "View Project"
     btn_class: "btn--primary" 
   - image_path: /assets/new_images/glassdoornew.png
     alt: "placeholder image 1"
     title: "Glassdoor Scraping"
-    excerpt: "Scraping Glassdoor to gauge demand of Data Scientists in Hong Kong"
+    excerpt: "Scraping Glassdoor to gauge demand of Data Scientists in Hong Kong and find the best clustered jobs"
     url: "https://github.com/jasonchanhku/DataScienceDemand"
     btn_label: "View Project"
     btn_class: "btn--primary"  
