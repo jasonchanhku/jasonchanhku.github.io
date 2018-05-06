@@ -21,7 +21,7 @@ feature_row:
     url: "https://github.com/jasonchanhku/UFC-MMA-Predictor"
     btn_label: "View Project"
     btn_class: "btn--primary" 
-  - image_path: /assets/new_images/glassdoor.png
+  - image_path: /assets/new_images/glassdoornew.png
     alt: "placeholder image 1"
     title: "Glassdoor Web Scraping"
     excerpt: "Scraping Glassdoor to gauge demand of Data Scientists in Hong Kong"
