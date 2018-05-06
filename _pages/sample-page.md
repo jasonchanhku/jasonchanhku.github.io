@@ -23,7 +23,7 @@ feature_row:
     btn_class: "btn--primary" 
   - image_path: /assets/new_images/glassdoornew.png
     alt: "placeholder image 1"
-    title: "Glassdoor Web Scraping"
+    title: "Glassdoor Scraping"
     excerpt: "Scraping Glassdoor to gauge demand of Data Scientists in Hong Kong"
     url: "https://github.com/jasonchanhku/DataScienceDemand"
     btn_label: "View Project"
